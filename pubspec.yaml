@@ -4,4 +4,4 @@ author: Montana Mendy <montana@getprowl.com>
 description: A simple and easy port of PHP Array Functions to Dart
 homepage: http://www.montanamendy.com
 dependencies:
-  unittest: any
+unittest: any
