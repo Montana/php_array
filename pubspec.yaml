@@ -1,0 +1,7 @@
+name: php_array
+version: 0.0.1
+author: Montana Mendy <montana@getprowl.com>
+description: A simple and easy port of PHP Array Functions to Dart
+homepage: http://www.montanamendy.com
+dependencies:
+  unittest: any
